@@ -1,0 +1,6 @@
+Makefile
+VERSION
+config.log
+*.gpd
+*.o
+*.so
